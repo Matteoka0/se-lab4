@@ -1,0 +1,4 @@
+# Create a ship with primary stocked torpedo store that never fails
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should have fired from the primary store, changed wasPrimaryFiredLast to true
+TORPEDO,SINGLE  # should have fired from the primary store
